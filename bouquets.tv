@@ -1,10 +1,7 @@
 #NAME User - bouquets (TV)
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.favourites.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet._ffentlich_rechtlich.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dritte_regional.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.privat.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.kd_kabelanschluss.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.kd_basic_tv.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.kd_basis_hd.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.kd_hd_premium.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.kd_hd_premium_plus.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.sky_starter.tv" ORDER BY bouquet
@@ -14,11 +11,13 @@
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.sky_buli.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.sky_select.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.sky_erotik.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.privat.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.musik.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.sport.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.news.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.kids.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.shopping.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.int.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.kd_erotik.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.kd_english.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.kd_t_rkisch.tv" ORDER BY bouquet
